@@ -24,3 +24,21 @@
     color: #4B2A63;
 }
 
+.btn {
+    color: #ffff;
+}
+
+.form-underline {
+      border: none;
+      border-bottom: 1px solid #000; /* Thin underline */
+      border-radius: 0;
+      outline: none;
+      background-color: transparent;
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    .form-underline:focus {
+      border-bottom: 2px solid #ffffff; /* Thicker underline on focus */
+      box-shadow: none;
+    }
