@@ -1,6 +1,11 @@
+    /* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
     body {
       font-family: 'Poppins', sans-serif;
-      /* padding: 50px; */
+      background-color: #ffffff;
     }
 *{
     font-family: 'Poppins', sans-serif;
@@ -20,9 +25,7 @@
       padding: 6px 12px;
       border-radius: 4px;
     }
-.bi{
-    color: #4B2A63;
-}
+
 
 .btn {
     color: #ffff;
