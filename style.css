@@ -10,38 +10,8 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
-    .Logo-text {
-      color: #451A64;
-      font-weight: 500;
-    }
-
-    .nav-item {
-      color: #000000;
-    }
-
-    .span-text-3 {
-      background-color: #4B2A63;
-      color: #fff;
-      padding: 6px 12px;
-      border-radius: 4px;
-    }
-
-
-.btn {
-    color: #ffff;
+.section1-text{
+    position: absolute;
+    margin-top: 50px;
+    width: 100px;
 }
-
-.form-underline {
-      border: none;
-      border-bottom: 1px solid #000; /* Thin underline */
-      border-radius: 0;
-      outline: none;
-      background-color: transparent;
-      padding-left: 0;
-      padding-right: 0;
-    }
-
-    .form-underline:focus {
-      border-bottom: 2px solid #ffffff; /* Thicker underline on focus */
-      box-shadow: none;
-    }
